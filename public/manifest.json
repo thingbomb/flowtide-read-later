@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Flowtide Read Later - Save Articles for Later",
+  "short_name": "Flowtide Read Later",
+  "version": "1.0.0",
+  "description": "Flowtide Read Later is a bookmarks-based read later extension.",
+  "permissions": ["bookmarks", "tabs"],
+  "action": {
+    "default_title": "Flowtide Read Later",
+    "default_popup": "index.html",
+    "default_icon": {
+      "128": "assets/logo.png"
+    }
+  },
+  "icons": {
+    "128": "assets/logo.png"
+  }
+}
