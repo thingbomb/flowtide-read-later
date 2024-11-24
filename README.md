@@ -4,7 +4,7 @@ Flowtide Read Later is a bookmarks-based read later extension. It allows you to 
 
 ## Install for your browser
 
-Not available yet
+- Chrome: [Add to Chrome](https://chromewebstore.google.com/detail/flowtide-read-later-save/pibkcppgbfclahfdnmaohlbcgmenealb)
 
 ## Developing the extension
 
